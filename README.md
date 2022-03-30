@@ -1,0 +1,3 @@
+# Martial Arts stimulator
+# Controls
+you can kick,punch,block,move forward,backward,etc...
